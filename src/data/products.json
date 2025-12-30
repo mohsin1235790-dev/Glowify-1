@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Velvet Luxe Lipstick",
+    "slug": "velvet-luxe-lipstick",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1512499617640-c2f999098c01?auto=format&fit=crop&w=600&q=80",
+    "description": "Richly pigmented satin lipstick infused with nourishing argan oil for all-day comfort."
+  },
+  {
+    "id": 2,
+    "name": "Aurora Glow Highlighter",
+    "slug": "aurora-glow-highlighter",
+    "price": 32,
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=600&q=80",
+    "description": "Weightless illuminating powder that delivers a dewy, glass-skin radiance on every complexion."
+  },
+  {
+    "id": 3,
+    "name": "Gardenia Mist Eau de Parfum",
+    "slug": "gardenia-mist-eau-de-parfum",
+    "price": 78,
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=600&q=80",
+    "description": "Floral-fruity fragrance layering gardenia petals, bergamot zest, and a hint of cedarwood."
+  },
+  {
+    "id": 4,
+    "name": "Silk Veil Setting Spray",
+    "slug": "silk-veil-setting-spray",
+    "price": 29,
+    "image": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?auto=format&fit=crop&w=600&q=80",
+    "description": "Hydrating setting mist with aloe and green tea that locks makeup for up to 16 hours."
+  },
+  {
+    "id": 5,
+    "name": "Cloud Creme Moisturizer",
+    "slug": "cloud-creme-moisturizer",
+    "price": 46,
+    "image": "https://images.unsplash.com/photo-1501426026826-31c667bdf23d?auto=format&fit=crop&w=600&q=80",
+    "description": "Airy gel-cream moisturizer packed with hyaluronic acid for bouncy, supple skin."
+  },
+  {
+    "id": 6,
+    "name": "Petal Soft Cleansing Balm",
+    "slug": "petal-soft-cleansing-balm",
+    "price": 38,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "description": "Melting balm-to-oil cleanser that dissolves long-wear makeup without stripping."
+  },
+  {
+    "id": 7,
+    "name": "Midnight Renewal Serum",
+    "slug": "midnight-renewal-serum",
+    "price": 64,
+    "image": "https://images.unsplash.com/photo-1505632958218-4f23394784d1?auto=format&fit=crop&w=600&q=80",
+    "description": "Retinol-alternative night serum with bakuchiol and peptides for smoother skin overnight."
+  },
+  {
+    "id": 8,
+    "name": "Desert Bloom Blush",
+    "slug": "desert-bloom-blush",
+    "price": 27,
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80",
+    "description": "Silky mineral blush inspired by desert sunsets for a natural rosy flush."
+  }
+]
